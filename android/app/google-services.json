@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "131582517115",
+    "firebase_url": "https://edq-database-default-rtdb.firebaseio.com",
+    "project_id": "edq-database",
+    "storage_bucket": "edq-database.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:131582517115:android:72a428ac0293e5bf3727de",
+        "android_client_info": {
+          "package_name": "com.example.edq"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "131582517115-vkq8g8oae089fiv1kv7mc5am1fbqc65d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHMKEGe0MgekCicZqxgbaqjVWNR60iTVA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "131582517115-vkq8g8oae089fiv1kv7mc5am1fbqc65d.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "131582517115-rb1rqpad2u6sm9a6bm1hin40aa5vq887.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.edqMobile"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:131582517115:android:4b0804f7e5cb95eb3727de",
+        "android_client_info": {
+          "package_name": "com.example.edq_mobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "131582517115-vkq8g8oae089fiv1kv7mc5am1fbqc65d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHMKEGe0MgekCicZqxgbaqjVWNR60iTVA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "131582517115-vkq8g8oae089fiv1kv7mc5am1fbqc65d.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "131582517115-rb1rqpad2u6sm9a6bm1hin40aa5vq887.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.edqMobile"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
