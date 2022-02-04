@@ -52,6 +52,7 @@ const MaterialColor customColor = MaterialColor(0xffb40311, <int, Color>{
   //default is Custom Red
   10: Color(0xfffed23e), //custom Orange
   20: Color(0xffeff0f5), //custom Grey for background
+  30: Color(0xffeff0f5), //custom Grey for background
 });
 
 String titleCase(String text) {
